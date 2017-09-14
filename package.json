@@ -11,11 +11,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "dateformat": "^2.0.0",
-    "fs": "0.0.1-security",
-    "ftp-client": "^0.2.2",
-    "htmlparser2": "^3.9.2",
-    "http": "0.0.0",
-    "request": "^2.81.0",
-    "sleep": "^5.1.1"
+    "http": "0.0.0"
   }
 }
